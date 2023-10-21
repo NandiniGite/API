@@ -1,0 +1,28 @@
+ [
+    {
+        "roomName": "Mini CCF",
+        "roomLocation": "CSE Department",
+       " roomSeatingCapacity": 120,
+       " isRoomActive": true
+    },
+    {
+        
+        "roomName": "DBMS Lab",
+        "roomLocation": "CSE Department",
+       " roomSeatingCapacity": 30,
+       " isRoomActive": true
+    },
+    {
+        
+        "roomName": "IOT Lab",
+        "roomLocation": "CSE Department",
+       " roomSeatingCapacity": 30,
+       " isRoomActive": true
+    },
+    {
+        "roomName": "PG Lab",
+        "roomLocation": "CSE Department",
+       " roomSeatingCapacity": 35,
+       " isRoomActive": true
+    }
+]
